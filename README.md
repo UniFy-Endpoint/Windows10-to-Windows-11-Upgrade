@@ -1,6 +1,6 @@
 # Windows 10 to Windows 11 Upgrade with (WUfB) & Windows Autopatch
 
-A comprehensive guide for deploying Windows 10 to Windows 11 upgrade using Microsoft Intune's Windows Update for Business (WUfB) policies.
+A comprehensive guide to upgrade Windows 10 to Windows 11 devices using Microsoft Intune's Windows Update for Business (WUfB) policies.
 
 ---
 
