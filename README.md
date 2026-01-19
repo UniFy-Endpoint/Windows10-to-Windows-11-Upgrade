@@ -224,7 +224,7 @@ Deploy the **Windows-Updates-Readiness** script to prepare devices for updates.
 #### Script Details
 
 ```
-Script Name: Windows-Updates-Readiness_v1.5.ps1
+Script Name: Windows-Updates-Readiness_v2.1.ps1
 Script Type: Platform Script
 Run as: SYSTEM
 64-bit PowerShell: Yes
@@ -243,7 +243,7 @@ Run as: SYSTEM
 
 1. Navigate to **Devices > Scripts and remediations > Platform scripts**
 2. Click **+ Add > Windows 10 and later**
-3. Upload `Windows-Updates-Readiness_v1.5.ps1`
+3. Upload `Windows-Updates-Readiness_v2.1.ps1`
 4. Configure:
    - Run using logged on credentials: **No**
    - Enforce script signature check: **No**
