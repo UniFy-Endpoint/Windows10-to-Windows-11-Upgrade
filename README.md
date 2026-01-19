@@ -182,7 +182,7 @@ Create the following WUfB policies to manage updates:
 #### Policy 1: Update Ring (Windows 10 to Windows 11)
 
 ```
-Policy Name: WUfB-Windows-10-To-Windows-11-Update-Ring
+Policy Name: WUfB-Windows-11-Update-Ring
 Policy Type: Update rings for Windows 10 and later
 
 Purpose: Controls quality update behavior and prepares devices for feature updates
